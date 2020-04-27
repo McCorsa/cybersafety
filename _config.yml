@@ -4,7 +4,7 @@ social_link: twitter
 social_username: mccorsa
 github_repo: athena
 github_username: mccorsa
-theme_color: green
+theme_color: black
 remote_theme: internet-de-france/swiss
 baseurl: /cybersafety
 defaults:
